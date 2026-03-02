@@ -141,6 +141,18 @@ serpent-trials/
 * `snake-turtle` starts after terminal version is complete.
 * Final versions must run independently.
 
+#### Critical Invariant: Main File Path Never Changes
+
+For each project, the learner will progressively edit the SAME main entry file in-place:
+
+- Terminal project entrypoint: `projects/snake-terminal/main.py`
+- Turtle project entrypoint: `projects/snake-turtle/main.py`
+
+Trials MUST NOT rename, move, duplicate, or replace these entry files as a progression mechanism.
+All trial instructions must assume the entrypoint paths above remain constant for the entire course.
+
+If a trial needs to introduce new files, it may ONLY add helper modules (e.g., `grid.py`, `render.py`) inside the same project folder, while keeping `main.py` as the stable entrypoint.
+
 ---
 
 ## 6. Trial Structure Standard
