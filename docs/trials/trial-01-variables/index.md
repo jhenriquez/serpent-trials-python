@@ -60,3 +60,8 @@ No tiene que verse exactamente igual, pero ya debe sentirse como el inicio de Sn
 ## 6. Desafio opcional
 
 Cambia el ancho del tablero o mueve la `O` a otra posicion usando solo variables.
+
+## Navegacion
+
+[Anterior: Trial 0](../trial-00-setup/)
+[Siguiente: Trial 2](../trial-02-lists-coordinates/)

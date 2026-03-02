@@ -50,3 +50,8 @@ Debes ver el puntaje durante la partida y, al perder, una opcion para volver a j
 ## 6. Desafio opcional
 
 Guarda y muestra el mejor puntaje de la sesion mientras el programa siga abierto.
+
+## Navegacion
+
+[Anterior: Trial 7](../trial-07-collision-detection/)
+[Siguiente: Trial 9](../trial-09-turtle-setup/)

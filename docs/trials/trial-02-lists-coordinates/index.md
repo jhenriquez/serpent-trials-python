@@ -69,3 +69,8 @@ Por ejemplo, si usas una coordenada como `[4, 2]`, el resultado podria verse asi
 ## 6. Desafio opcional
 
 Crea una segunda coordenada de prueba y mueve la `O` cambiando solo los numeros de la lista.
+
+## Navegacion
+
+[Anterior: Trial 1](../trial-01-variables/)
+[Siguiente: Trial 3](../trial-03-functions/)

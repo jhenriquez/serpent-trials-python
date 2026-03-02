@@ -65,3 +65,8 @@ Por ejemplo:
 ## 6. Desafio opcional
 
 Crea una funcion pequena extra para imprimir una sola fila vacia del tablero.
+
+## Navegacion
+
+[Anterior: Trial 2](../trial-02-lists-coordinates/README.md)
+[Siguiente: Trial 4](../trial-04-manual-movement/README.md)

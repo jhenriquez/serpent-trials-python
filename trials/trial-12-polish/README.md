@@ -46,3 +46,7 @@ Debes ver un Snake grafico completo con puntaje, fin de juego y reinicio.
 ## 6. Desafio opcional
 
 Agrega una pantalla inicial simple con un mensaje como `Press any key to start`.
+
+## Navegacion
+
+[Anterior: Trial 11](../trial-11-food-collision-turtle/README.md)

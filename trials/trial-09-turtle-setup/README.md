@@ -44,3 +44,8 @@ Debes ver una ventana de Turtle con una figura simple que represente el inicio d
 ## 6. Desafio opcional
 
 Cambia el color de la figura o el fondo de la ventana.
+
+## Navegacion
+
+[Anterior: Trial 8](../trial-08-score-restart/README.md)
+[Siguiente: Trial 10](../trial-10-snake-body-turtle/README.md)

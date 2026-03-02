@@ -52,3 +52,8 @@ Por ejemplo, el tablero ya no tiene solo `O`, tambien debe mostrar `*`.
 ## 6. Desafio opcional
 
 Haz que la comida nunca aparezca encima del cuerpo de la serpiente.
+
+## Navegacion
+
+[Anterior: Trial 5](../trial-05-continuous-movement/README.md)
+[Siguiente: Trial 7](../trial-07-collision-detection/README.md)

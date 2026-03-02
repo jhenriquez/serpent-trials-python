@@ -40,3 +40,7 @@ Welcome to Serpent Trials
 ## 6. Desafio opcional
 
 Cambia el mensaje para incluir tu nombre y vuelve a ejecutar el archivo.
+
+## Navegacion
+
+[Siguiente: Trial 1](../trial-01-variables/)

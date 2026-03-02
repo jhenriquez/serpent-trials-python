@@ -46,3 +46,8 @@ Debes ver una cabeza y uno o mas segmentos que se mueven detras de ella.
 ## 6. Desafio opcional
 
 Haz que la cabeza y el cuerpo tengan colores distintos.
+
+## Navegacion
+
+[Anterior: Trial 9](../trial-09-turtle-setup/)
+[Siguiente: Trial 11](../trial-11-food-collision-turtle/)

@@ -46,3 +46,8 @@ Debes ver comida en la ventana y un final de partida cuando la serpiente choca.
 ## 6. Desafio opcional
 
 Haz que la comida aparezca en posiciones nuevas sin tocar el cuerpo de la serpiente.
+
+## Navegacion
+
+[Anterior: Trial 10](../trial-10-snake-body-turtle/)
+[Siguiente: Trial 12](../trial-12-polish/)

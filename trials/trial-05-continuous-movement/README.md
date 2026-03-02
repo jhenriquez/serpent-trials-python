@@ -61,3 +61,8 @@ Si quieres una experiencia mas fluida, explora una version con lectura de teclad
 - `termios` y `tty` en Linux o Mac
 
 Esto es opcional y depende de tu sistema operativo.
+
+## Navegacion
+
+[Anterior: Trial 4](../trial-04-manual-movement/README.md)
+[Siguiente: Trial 6](../trial-06-food-system/README.md)

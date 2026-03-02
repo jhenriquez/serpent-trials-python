@@ -51,3 +51,8 @@ Cuando la serpiente toca una pared o su propio cuerpo, el movimiento debe detene
 ## 6. Desafio opcional
 
 Muestra un mensaje diferente segun el tipo de colision: pared o cuerpo.
+
+## Navegacion
+
+[Anterior: Trial 6](../trial-06-food-system/README.md)
+[Siguiente: Trial 8](../trial-08-score-restart/README.md)

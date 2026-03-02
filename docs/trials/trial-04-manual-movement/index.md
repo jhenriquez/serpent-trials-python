@@ -92,3 +92,8 @@ Esa mejora depende del sistema operativo, asi que dejala como experimento opcion
 No necesitas resolver esto para completar el trial principal.
 
 La meta del desafio es explorar una lectura de teclado mas inmediata, sabiendo que es una ruta mas avanzada y mas dependiente de tu sistema.
+
+## Navegacion
+
+[Anterior: Trial 3](../trial-03-functions/)
+[Siguiente: Trial 5](../trial-05-continuous-movement/)
