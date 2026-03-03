@@ -64,5 +64,5 @@ Esto es opcional y depende de tu sistema operativo.
 
 ## Navegacion
 
-[Anterior: Trial 4](../trial-04-manual-movement/README.md)
+[Anterior: Trial 4](../trial-04-functions/README.md)
 [Siguiente: Trial 6](../trial-06-food-system/README.md)
