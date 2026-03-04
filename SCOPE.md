@@ -113,22 +113,12 @@ serpent-trials/
 │
 ├── docs/                      # GitHub Pages content (Spanish course)
 │
-├── trials/                    # Trial instructions (Spanish markdown)
-│   ├── trial-00-setup/
-│   ├── trial-01-variables/
-│   ├── trial-02-conditions/
-│   └── ...
-│
 ├── projects/
 │   ├── snake-terminal/
 │   │   └── main.py
 │   │
 │   └── snake-turtle/
 │       └── main.py
-│
-├── scaffolding/
-│   ├── terminal-base.py
-│   └── turtle-base.py
 │
 ├── PRD.md
 └── README.md

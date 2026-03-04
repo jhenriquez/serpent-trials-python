@@ -5,9 +5,7 @@ Serpent Trials is a beginner-friendly Python course where students build Snake s
 The repository is organized around:
 
 - `docs/` for GitHub Pages course navigation
-- `trials/` for Spanish lesson content
 - `projects/` for the runnable game code
-- `scaffolding/` for starter templates
 
 Current status:
 
