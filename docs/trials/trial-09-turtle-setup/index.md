@@ -22,6 +22,17 @@ Ahora vas a rehacer la experiencia en una ventana grafica, paso a paso, usando i
 
 Abre `projects/snake-turtle/main.py`.
 
+Antes de empezar:
+
+La libreria `turtle` depende de `tkinter`.
+
+Si ves un error como `No module named 'tkinter'`, instala el soporte de Tk para tu sistema:
+
+- Linux (Ubuntu/Debian): `sudo apt install python3-tk`
+- Linux (Fedora): `sudo dnf install python3-tkinter`
+- Linux (Arch): `sudo pacman -S tk`
+- Windows: vuelve a ejecutar el instalador oficial de Python y asegurate de incluir `tcl/tk and IDLE`
+
 Luego:
 
 1. Importa `turtle`.
@@ -44,6 +55,8 @@ Debes ver una ventana de Turtle con una figura simple que represente el inicio d
 ## 6. Desafio opcional
 
 Cambia el color de la figura o el fondo de la ventana.
+
+Si usas Windows y `turtle` no abre, revisa primero la instalacion de Python antes de cambiar el codigo.
 
 ## Navegacion
 

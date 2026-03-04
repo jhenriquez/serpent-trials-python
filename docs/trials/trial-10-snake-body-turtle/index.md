@@ -24,6 +24,17 @@ Este trial reconstruye esa idea en la version visual.
 
 Abre `projects/snake-turtle/main.py` y toma tu version del trial anterior.
 
+Recuerda:
+
+Para que `turtle` funcione, tu Python necesita `tkinter`.
+
+Si todavia no abriste la ventana grafica en el trial anterior, instala primero:
+
+- Linux (Ubuntu/Debian): `sudo apt install python3-tk`
+- Linux (Fedora): `sudo dnf install python3-tkinter`
+- Linux (Arch): `sudo pacman -S tk`
+- Windows: vuelve a ejecutar el instalador oficial de Python y activa `tcl/tk and IDLE`
+
 Luego:
 
 1. Crea una lista para guardar los segmentos del cuerpo.
