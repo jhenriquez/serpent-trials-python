@@ -95,5 +95,5 @@ La meta del desafio es explorar una lectura de teclado mas inmediata, sabiendo q
 
 ## Navegacion
 
-[Anterior: Trial 3](../trial-03-functions/)
-[Siguiente: Trial 5](../trial-05-continuous-movement/)
+[Anterior: Trial 3](../trial-03-manual-movement/README.md)
+[Siguiente: Trial 5](../trial-05-continuous-movement/README.md)

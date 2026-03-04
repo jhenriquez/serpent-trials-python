@@ -1,46 +1,220 @@
 # Trial 0 - Setup y primera ejecución
 
-## 1. Objetivo
+## 🎯 Objetivo
 
-Preparar tu copia del proyecto y ejecutar tu primer archivo de Python.
+Preparar tu entorno de trabajo, crear tu copia del proyecto y ejecutar tu primer programa en Python.
 
-## 2. Explicación del concepto
+Hoy no construimos la serpiente.
 
-En este primer paso no vamos a programar una mecánica del juego todavía.
+Hoy construimos la base.
 
-La meta es que tú tengas el proyecto abierto en tu computadora y puedas correr un archivo `.py`.
+Hoy tomas control.
 
-Eso te da algo muy importante: control sobre tu propio proyecto.
+---
 
-## 3. Conexión con Snake
+## 🧠 ¿Qué está pasando aquí?
 
-Antes de mover la serpiente, necesitas comprobar que el proyecto funciona y que puedes ejecutar código cuando quieras.
+Antes de crear un juego, necesitas algo más importante:
 
-Este será el mismo archivo que iremos mejorando trial por trial.
+👉 Un proyecto que sea tuyo.
+👉 Herramientas funcionando en tu computadora.
+👉 Poder ejecutar código cuando tú quieras.
 
-## 4. Requisito concreto
+Cuando puedes correr un archivo `.py`, significa que tienes control sobre la máquina.
 
-1. Haz un fork del repositorio.
-2. Clona tu fork.
-3. Abre la carpeta en VS Code.
-4. Ejecuta este archivo:
+Y eso es donde empieza todo.
 
-```bash
+---
+
+# 🧰 Parte 1 — Preparar tus herramientas
+
+Si ya tienes todo instalado, puedes saltar esta sección.
+Si no, sigue los pasos con calma.
+
+---
+
+## 1️⃣ Instalar Visual Studio Code
+
+Visual Studio Code (VS Code) será nuestro editor principal.
+
+Es donde escribiremos todo el código.
+
+1. Ve a: https://code.visualstudio.com
+2. Descarga la versión para tu sistema operativo (Windows).
+3. Instálalo normalmente (siguiente, siguiente, siguiente).
+
+Cuando termine, abre VS Code para confirmar que funciona.
+
+---
+
+## 2️⃣ Instalar Python
+
+Si no tienes Python instalado:
+
+1. Ve a: https://www.python.org/downloads/
+2. Descarga la versión más reciente para Windows.
+3. Durante la instalación, marca la opción:
+
+Add Python to PATH
+
+Esto es MUY importante.
+
+Después de instalarlo, abre una terminal (puede ser la de VS Code más adelante) y escribe:
+
+python --version
+
+Si ves un número de versión, todo está correcto.
+
+---
+
+## 3️⃣ Instalar Git (si no lo tienes)
+
+Git nos permite:
+
+- Guardar cambios
+- Subir nuestro progreso
+- Trabajar como programadores reales
+
+Para instalarlo:
+
+1. Ve a: https://git-scm.com/download/win
+2. Descarga Git for Windows
+3. Instálalo con las opciones por defecto
+
+Después de instalarlo, reinicia VS Code si estaba abierto.
+
+---
+
+## 4️⃣ Extensión de Git en VS Code
+
+VS Code ya incluye soporte para Git.
+
+Pero asegúrate de que:
+
+- En la barra lateral izquierda aparece el ícono de "Source Control" (parece una ramita).
+- No aparece ningún error diciendo que Git no está instalado.
+
+Si todo se ve normal, estás listo.
+
+---
+
+# 🌐 Parte 2 — GitHub y tu copia del proyecto
+
+---
+
+## 5️⃣ Crear una cuenta en GitHub
+
+Si no tienes cuenta:
+
+1. Ve a https://github.com
+2. Crea una cuenta gratuita.
+3. Verifica tu correo.
+
+GitHub será tu lugar para guardar tu proyecto en internet.
+
+Es como tu portafolio de programador.
+
+---
+
+## 6️⃣ Hacer un Fork del repositorio
+
+Ir al repositorio principal de Serpent Trials.
+
+Haz clic en el botón:
+
+Fork
+
+Esto crea una copia del proyecto en tu cuenta.
+
+Ahora el proyecto es tuyo.
+
+---
+
+## 7️⃣ Clonar tu Fork
+
+En tu repositorio (el que está en tu cuenta):
+
+1. Haz clic en el botón verde "Code".
+2. Copia la URL.
+3. En VS Code:
+   - Presiona Ctrl + Shift + P
+   - Escribe: Git: Clone
+   - Pega la URL
+   - Elige una carpeta en tu computadora
+
+Cuando termine, abre esa carpeta en VS Code.
+
+Ahora tienes el proyecto en tu máquina.
+
+Eso ya es un gran paso.
+
+---
+
+# 🐍 Parte 3 — Ejecutar tu primer programa
+
+---
+
+## 🛠️ Requisito concreto
+
+1. Abre la carpeta del proyecto en VS Code.
+2. Abre la terminal dentro de VS Code (Terminal → New Terminal).
+3. Ejecuta:
+
 python projects/snake-terminal/main.py
-```
 
-## 5. Resultado visible esperado
+---
 
-Debes ver este mensaje en la terminal:
+## ✅ Resultado esperado
 
-```text
+Debes ver en la terminal:
+
 Welcome to Serpent Trials
-```
 
-## 6. Desafio opcional
+Si ves ese mensaje, significa que:
 
-Cambia el mensaje para incluir tu nombre y vuelve a ejecutar el archivo.
+- Python está funcionando.
+- Git está funcionando.
+- El proyecto está correctamente clonado.
+- Puedes ejecutar tu propio código.
 
-## Navegacion
+Eso es poder.
 
-[Siguiente: Trial 1](../trial-01-variables/)
+No estás viendo un video.
+
+No estás leyendo teoría.
+
+Estás ejecutando código real.
+
+---
+
+## 🚀 Desafío opcional
+
+Abre el archivo:
+
+projects/snake-terminal/main.py
+
+Busca el mensaje que se imprime.
+
+Cámbialo para incluir tu nombre.
+
+Ejemplo:
+
+Welcome to Serpent Trials, Sofia
+
+Guarda el archivo.
+
+Vuelve a ejecutar el programa.
+
+Si el mensaje cambia, significa que:
+
+- Editaste código
+- Ejecutaste código
+- Cambiaste el comportamiento del programa
+
+Eso significa que ya empezaste a programar.
+
+---
+
+## 📍 Navegación
+
+[Siguiente: Trial 1](../trial-01-variables/README.md)
